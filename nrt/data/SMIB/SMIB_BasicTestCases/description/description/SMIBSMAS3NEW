@@ -1,0 +1,16 @@
+  COMPLEX MODES:
+  ==============
+
+  N0.      REAL        IMAG     DAMP (%)  FREQ(HZ)  GEN. WITH GREATEST PARTIC.
+  ----  ----------  ----------  --------  --------  --------------------------
+     1     -0.6754      8.0765      8.33    1.2854      1 NGEN           1 ROT
+     2     -0.6754     -8.0765      8.33    1.2854      1 NGEN           1 ROT
+  REAL MODES:
+  ===========
+
+  N0.       REAL      TIME CONST.   GEN. WITH GREATEST PARTIC.
+  ----  ------------  ------------  --------------------------
+     3       -1.4033   0.71260E+00      1 NGEN           1 SMQ
+     4       -2.2814   0.43832E+00      1 NGEN           1 SMD
+     5      -17.8526   0.56014E-01      1 NGEN           1 SMQ
+     6      -34.1540   0.29279E-01      1 NGEN           1 SMD
